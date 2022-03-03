@@ -1,4 +1,4 @@
-baseURL = "https://www.thefrblog.net"
+baseURL = "https://thefrblog.net"
 languageCode = "en-us"
 title = "The f.R- Blog"
 theme = "hugo-theme-cactus"
