@@ -1,10 +1,11 @@
 {{ define "main" }}
-  <section id="about">
+  
+    <section id="about">
   {{ if isset .Site.Params "description" }}
     {{ .Site.Params.description | $.Page.RenderString }}
   {{ end }}
   {{ if isset .Site.Params "social" }}
-      <p>Find me on
+      <p>Find my other projects on GitHub:
       {{ $length := (len .Site.Params.social) }}
       {{ range $index, $elem := .Site.Params.social}}
       {{ if eq $elem.name "email" }}
@@ -29,7 +30,7 @@
         {{ else if (lt (add $index 1) $length) }}
           {{- print " and " -}}
         {{ else }}
-          {{- print "." -}}
+          {{- print "" -}}
         {{ end }}
       {{ end }}
       </p>
@@ -38,7 +39,7 @@
   </section>
 
   <section id="writing">
-    <span class="h1"><a href="{{ .Site.Params.mainSection | absURL }}">{{ .Site.Params.mainSectionTitle | default "Writings" }}</a></span>
+    <span class="h2"><a href="{{ .Site.Params.mainSection | absURL }}">{{ .Site.Params.mainSectionTitle | default "Recent Notes" }}</a></span>
     {{ if (and (and (isset .Site.Params "tagsoverview") (eq .Site.Params.tagsOverview true)) (gt (len .Site.Taxonomies.tags) 0)) }}
     <span class="h2">Topics</span>
     <span class="widget tagcloud">

@@ -52,7 +52,8 @@
         color: $color-accent-1;
       }
       a:hover {
-        @include underline(5px, $color-accent-1);
+        color: $color-link;
+        @include underline(5px, $color-link);
       }
       li {
         display: inline-block;
