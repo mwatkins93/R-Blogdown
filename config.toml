@@ -21,13 +21,18 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
+name = "CV"
+url = "/public/CV_MW22.pdf"
+weight = 3
+
+[[menu.main]]
 name = "About"
 url = "/about"
-weight = 3
+weight = 4
 
 [markup]
   [markup.tableOfContents]
-    endLevel = 3
+    endLevel = 4
     ordered = true
     startLevel = 2
   [markup.highlight]
@@ -49,7 +54,7 @@ weight = 3
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Welcome to the f.R- blog, which is short for *forever rising*. I coined this life mantra for myself some time ago and it originated from the combining of select words from two song titles in my Spotify library. Synonomous with always striving, bettering or continuously learning, it is my way forward; a personal compass of sorts. Hopefully, this blog will reflect my growth across the numerous interests I have. I aim to continue in the style of my old blog while also including some off-hand calculations, analysis, projects and other random tidbits I enjoy outside of research." 
+  description = "Welcome to the f.R- blog, which is short for *forever rising*. I coined this life mantra for myself some time ago and it originated from the combining of select words from two song titles in my Spotify library. Synonymous with always striving, bettering or continuously learning, it is my way forward; a personal compass of sorts. Hopefully, this blog will reflect my growth across the numerous interests I have. I aim to continue in the style of my old blog while also including some off-hand calculations, analysis, projects and other random tidbits I enjoy outside of research." 
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
