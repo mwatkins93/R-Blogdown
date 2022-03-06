@@ -20,8 +20,6 @@ MW
 
 {{< youtube E8u6LV_VwL0 >}}
 
----
-
 Footnotes
 
 1. Later, releases like Fortnite would exacerbate this.
