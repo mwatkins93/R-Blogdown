@@ -15,7 +15,9 @@ Looking at my list below reminds me just how much I have transformed since 2010.
 
 Outside of the time constraint, the goal I had when making this track list was simple: take some of the best efforts from my favourite artists and create an album that flows well while also capturing the range of sound I have come to love. I knew how I wanted to structure the beginning and the end – which ended up changing – but it took some time to flesh out the heart of the album. Thirteen songs, fifty-four minutes and many listens later, I think I have something I will enjoy for many years. It contains some heavy, some melodic, some atmospheric, some catchy, some uplifting and some emotional. In particular, certain riffs (e.g., Killswitch Engage), solos (e.g., Darkest Hour, Shadows Fall) and choruses (e.g, Rise to Fall, Bury Tomorrow) still leave me with goosebumps after hundreds of listens. Additionally, I've left a few honourable mentions; they just did not integrate as well as I had initially thought. I've also left the Spotify link below. 
 
-<center>Track list</center>
+<center>
+
+Track list
 
 1. The Primeval Dark - Insomnium
 
@@ -54,6 +56,8 @@ Honourable Mentions
 3. My Own Grave - As I Lay Dying
 
 4. Alpha Seed - ERRA 
+
+</center>
 
 
 Based on my childhood foundation and fondness of the guitar, some would say I am exactly where I should be – in a land where melody and power coexist and thrive.
