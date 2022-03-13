@@ -20,7 +20,7 @@ MW
 
 ---
 
-Footnotes
+### Footnotes
 1. Later, releases like Fortnite would exacerbate this.
 2. A popular one life attack and defend game mode based off of Counter-Strike.
 3. Every map released up until the end of August was completed; I moved away after that and could not continue.
