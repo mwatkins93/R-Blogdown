@@ -49,9 +49,10 @@
       {{ partial "share.html" . }}
     </div>
     {{ if not .Site.Params.tocInline }}
+ <!-- Disabling table of contents until I figure out how to adjust it
     <div id="toc">
       {{ .TableOfContents }}
-    </div>
+    </div> -->
     {{ end }}
   </span>
 </div>
