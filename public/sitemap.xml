@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zealous-mcclintock-60620f.netlify.app/posts/2021-12-06-call-of-duty/</loc>
+    <loc>https://thefrblog.net/posts/2021-12-06-call-of-duty/</loc>
     <lastmod>2021-12-06T23:52:11+00:00</lastmod>
   </url><url>
-    <loc>https://zealous-mcclintock-60620f.netlify.app/categories/</loc>
+    <loc>https://thefrblog.net/categories/</loc>
     <lastmod>2021-12-06T23:52:11+00:00</lastmod>
   </url><url>
-    <loc>https://zealous-mcclintock-60620f.netlify.app/tags/gaming/</loc>
+    <loc>https://thefrblog.net/tags/gaming/</loc>
     <lastmod>2021-12-06T23:52:11+00:00</lastmod>
   </url><url>
-    <loc>https://zealous-mcclintock-60620f.netlify.app/categories/gaming/</loc>
+    <loc>https://thefrblog.net/categories/gaming/</loc>
     <lastmod>2021-12-06T23:52:11+00:00</lastmod>
   </url><url>
-    <loc>https://zealous-mcclintock-60620f.netlify.app/posts/</loc>
+    <loc>https://thefrblog.net/posts/</loc>
     <lastmod>2021-12-06T23:52:11+00:00</lastmod>
   </url><url>
-    <loc>https://zealous-mcclintock-60620f.netlify.app/tags/</loc>
+    <loc>https://thefrblog.net/tags/</loc>
     <lastmod>2021-12-06T23:52:11+00:00</lastmod>
   </url><url>
-    <loc>https://zealous-mcclintock-60620f.netlify.app/</loc>
+    <loc>https://thefrblog.net/</loc>
     <lastmod>2021-12-06T23:52:11+00:00</lastmod>
   </url><url>
-    <loc>https://zealous-mcclintock-60620f.netlify.app/about/</loc>
+    <loc>https://thefrblog.net/tags/music/</loc>
+    <lastmod>2021-02-11T17:53:10+00:00</lastmod>
+  </url><url>
+    <loc>https://thefrblog.net/categories/music/</loc>
+    <lastmod>2021-02-11T17:53:10+00:00</lastmod>
+  </url><url>
+    <loc>https://thefrblog.net/posts/2021-02-11-all-decade-album/</loc>
+    <lastmod>2021-02-11T17:53:10+00:00</lastmod>
+  </url><url>
+    <loc>https://thefrblog.net/about/</loc>
     <priority>0</priority>
   </url>
 </urlset>
