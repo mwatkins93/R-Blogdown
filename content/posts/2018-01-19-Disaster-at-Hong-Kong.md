@@ -42,11 +42,9 @@ That same day, the Canadians lost their commanding officer, Brigadier John Lawso
 
 I cannot even begin to imagine the experiences these soldiers went through, who for the most part, were younger than myself. To arrive on foreign land and fight for your life in complete chaos against a superior Japanese force is absolutely bone-chilling. Survival ensured four years of captivity before stepping foot on Canadian soil again. It was a costly task, but their answering to the call of duty was remarkable. Additionally, their sacrifice and bravery should never be forgotten.
 
-{{< figure src="/posts/images/hong_kong/canadian-pows.jpg" caption="**Figure 6.** Surviving Canadian POWs that were captured after surrending in Hong Kong four years earlier">}}
+{{< figure src="/posts/images/hong_kong/sai-wan-memorial.png" caption="**Figure 6.** Sai Wan Memorial and Cemetery in Hong Kong. The final resting spot for many Canadians and other Commonwealth soldiers who fought in the Battle of Hong Kong or died in captivity">}}
 
-{{< figure src="/posts/images/hong_kong/sai-wan-memorial.png" caption="Hi">}}
-
-Lastly, I want to thank the History Channel's For King and Country series since I heavily relied on it for a majority of this writing.
+Lastly, I want to acknowledge and thank the History Channel's *For King and Country* series since the majority of this writing heavily relied on it.
 
 Out for now,
 
@@ -62,6 +60,6 @@ MW
 
 Barnhart, M. A. (1988). *Japan Prepares for Total War.* Cornell.
 
-Shirer, W. L. (2011). *The Rise and Fall of the Third Reich.* (15th anniversary ed.)
+Shirer, W. L. (2011). *The Rise and Fall of the Third Reich.* (15th anniversary ed.). Simon & Schuster.
 
 Yeandle31 History Channel. (2019, January 29). *For King & Country: Episode 2 - Disaster in Hong Kong* [Video]. YouTube. https://youtu.be/yDedCWEp51o
