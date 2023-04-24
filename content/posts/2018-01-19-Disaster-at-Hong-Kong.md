@@ -25,16 +25,13 @@ Arriving on November 16th with no war in the foreseeable future, the Canadians g
 
 {{< figure src="/posts/images/hong_kong/invasion-from-cdn-perspective.png" caption="**Figure 2.** The elevated hills of modern day Hong Kong island">}}
 
-From here and other surrounding peaks, they could observe the coastline and fixate their guns downslope as they prepared for the looming invasion. On the night of December 18th, the Japanese made a daring and successful crossing (the area was filled with smoke due to the prior bombardments) of the channel, which took the defenders by total surprise.
-
-
 {{< figure src="/posts/images/hong_kong/hong-kong-island1.jpg" caption="**Figure 3.** The --- heavily simplified --- Japanese assault plan for Hong Kong island">}}
 
-It was imperative for the Japanese to move quickly up the peaks and overwhelm the Canadians to gain these strategic points. The goal was to occupy the Wong Nai Chung Gap and divide the island in two. This they did very well and the Canadians took many casualties as they attempted to mount small group counter-attacks trying to push the Japanese back. The first phase of the Japanese invasion had gone incredibly well and it forced the Canadians into total chaos. With their primary positions overrun, they had no more communication lines and had no idea where the bulk of the Japanese were coming from. Jardin's Lookout seen in Figure 1, which was a tertiary line of defence, was already coming under attack before the Canadians could even realize what was going on. 
+From here and other surrounding peaks (Figure 2), they could observe the coastline and fixate their guns downslope as they prepared for the looming invasion. On the night of December 18th, the Japanese made a daring and successful crossing (the area was filled with smoke due to the prior bombardments) of the channel, which took the defenders by total surprise.It was imperative for the Japanese to move quickly up the peaks and overwhelm the Canadians to gain these strategic points. The goal was to occupy the Wong Nai Chung Gap and divide the island in two (Figure 3). This they did very well and the Canadians took many casualties as they attempted to mount small group counter-attacks trying to push the Japanese back. The first phase of the Japanese invasion had gone incredibly well and it forced the Canadians into total chaos. With their primary positions overrun, they had no more communication lines and had no idea where the bulk of the Japanese were coming from. Jardin's Lookout seen in Figure 1, which was a tertiary line of defence, was already coming under attack before the Canadians could even realize what was going on. 
 
 The plan of action for the Canadians on the 19th of December was to send "A" Company (100-200 men), led by Sergeant Major John Osborn, overtop Jardin's lookout and drive forward to retake Mt. Butler. With heavy casualties, this was achieved until the Japanese counter-attacked later in the day. As "A" Company retreated they become split up, overwhelmed, and surrounded. Throwing back numerous grenades from their defensive positions along the slopes, one landed near John and he realized he didn't have time to throw it back so he warned his comrades and threw himself on the grenade, ultimately sacrificing himself. The remainder of "A" Company eventually surrendered and became Japanese prisoners of war until their release in 1945. The 42-year-old Osborn was awarded the first Victoria Cross --- the highest honour a Canadian soldier can receive --- in the second World War for exceptional bravery. A true hero.
 
-{{< figure src="/posts/images/hong_kong/john-osborne-counterattack.png" caption="**Figure 4.** A Company's attempted assault to retake Mt Butler on the 19th of December, 1941">}}
+{{< figure src="/posts/images/hong_kong/john-osborne-counterattack.png" caption="**Figure 4.** A Company's attempted assault to retake Mt. Butler on the 19th of December, 1941">}}
 
 That same day, the Canadians lost their commanding officer, Brigadier John Lawson, when his command post came under fire.² Despite this, a portion of the Winnipeg Grenadiers held a critical section of the Wong Nai Chung Gap for another three days against all odds. Every single man was wounded, no reinforcements were available and they were surrounded on all sides; they finally surrendered on December 22nd. Intense fighting continued until the western portion of the island fell on December 24th and on Christmas Day 1941, the British surrendered Hong Kong. For almost 18 days the Canadians fought with the Commonwealth bitterly resisting the Japanese and **it cost 290 lives along with 493 wounded.** The casualty rate for the units at Hong Kong was one of the highest in the second World War for the Canadian Army, which reinforces how fierce the fighting was. Some 264 Canadians ended up dying later on as Japanese prisoners of war (POWs) due to the horrific conditions in their work camps; many of the surviving soldiers held strong bitterness towards the Japanese and how they operated.³ For example, when the Japanese arrived at a medical hospital located on the southern part of Hong Kong island, they bayonetted every wounded soldier and mutilated some of the bodies.
 
@@ -52,9 +49,9 @@ MW
 
 ---
 
-1. These two nations were just recently at war from 1904-1905 over Manchuria and Korea so this was a step forward in relations.
-2. He was the highest ranking Canadian soldier killed in action during the second World War.
-3. The Japanese were ruthlessly inhumane towards prisoners, many thought it was better to die than to be captured. Ultimately, it took until 2011 for the Japanese government to formally apologize to Canada for the treatment of Hong Kong POWs.
+¹ These two nations were just recently at war from 1904-1905 over Manchuria and Korea so this was a step forward in relations.
+² He was the highest ranking Canadian soldier killed in action during the second World War.
+³ The Japanese were ruthlessly inhumane towards prisoners, many thought it was better to die than to be captured. Ultimately, it took until 2011 for the Japanese government to formally apologize to Canada for the treatment of Hong Kong POWs.
 
 # References
 
