@@ -37,11 +37,9 @@ That same day, the Canadians lost their commanding officer, Brigadier John Lawso
 
 {{< figure src="/posts/images/hong_kong/canadian-pows.jpg" caption="**Figure 5.** Surviving Canadian POWs that were captured after surrending in Hong Kong four years earlier">}}
 
-I cannot even begin to imagine the experiences these soldiers went through, who for the most part, were younger than myself. To arrive on foreign land and fight for your life in complete chaos against a superior Japanese force is absolutely bone-chilling. Survival ensured four years of captivity before stepping foot on Canadian soil again. It was a costly task, but their answering to the call of duty was remarkable. Additionally, their sacrifice and bravery should never be forgotten.
-
 {{< figure src="/posts/images/hong_kong/sai-wan-memorial.png" caption="**Figure 6.** Sai Wan Memorial and Cemetery in Hong Kong. The final resting spot for many Canadians and other Commonwealth soldiers who fought in the Battle of Hong Kong or died in captivity">}}
 
-Lastly, I want to acknowledge and thank the History Channel's *For King and Country* series since the majority of this writing heavily relied on it.
+I cannot even begin to imagine the experiences these soldiers went through, who for the most part, were younger than myself. To arrive on foreign land and fight for your life in complete chaos against a superior Japanese force is absolutely bone-chilling. Survival ensured four years of captivity before stepping foot on Canadian soil again. It was a costly task, but their answering to the call of duty was remarkable. Additionally, their sacrifice and bravery should never be forgotten. Lastly, I want to acknowledge and thank the History Channel's *For King and Country* series since the majority of this writing heavily relied on it.
 
 Out for now,
 
@@ -50,7 +48,9 @@ MW
 ---
 
 ¹ These two nations were just recently at war from 1904-1905 over Manchuria and Korea so this was a step forward in relations.
+
 ² He was the highest ranking Canadian soldier killed in action during the second World War.
+
 ³ The Japanese were ruthlessly inhumane towards prisoners, many thought it was better to die than to be captured. Ultimately, it took until 2011 for the Japanese government to formally apologize to Canada for the treatment of Hong Kong POWs.
 
 # References
