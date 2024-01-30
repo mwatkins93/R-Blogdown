@@ -22,7 +22,7 @@ weight = 2
 
 [[menu.main]]
 name = "CV"
-url = "/CV_MW22.pdf"
+url = "/CV_23_R.pdf"
 weight = 3
 
 [[menu.main]]
@@ -54,7 +54,7 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Welcome to the f.R- blog, which is short for *forever rising* - a personal mantra that originated from two song titles in my Spotify library some time ago. It is my way forward; perhaps a compass of sorts. Hopefully, this blog will reflect my growth across the numerous interests I have. I aim to include some off-hand calculations, analysis, projects and other random tidbits I enjoy outside of research." 
+  description = "Welcome to the f.R- blog, which is short for *forever rising* - a personal mantra that originated from two song titles in my Spotify library some time ago. It is my way forward; perhaps a compass of sorts. My aim for this blog is to include some personal thoughts, analysis, and projects surrounding the numerous interests I have." 
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
