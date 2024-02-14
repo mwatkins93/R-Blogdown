@@ -26,7 +26,7 @@ url = "/CV_23_R.pdf"
 weight = 3
 
 [[menu.main]]
-name = The geo-pad
+name = "The geo-pad"
 url = "/MW_geo-pad.pdf"
 weight = 4
 
