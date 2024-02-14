@@ -26,9 +26,14 @@ url = "/CV_23_R.pdf"
 weight = 3
 
 [[menu.main]]
+name = The geo-pad
+url = "/MW_geo-pad.pdf"
+weight = 4
+
+[[menu.main]]
 name = "About"
 url = "/about"
-weight = 4
+weight = 5
 
 [markup]
   [markup.tableOfContents]
